@@ -1,14 +1,12 @@
-# Data Science Learning Archive
+# DTSC2301 Course Archive
 
-A small archive of early notebook exercises in regression and exploratory analysis.
+An archive from completed DTSC2301 coursework, retained separately from the current application portfolio.
 
-## Contents and status
+## Repository contents
 
-The [regression notebook](DTSC2301_S26_HW2%20%2811%29.ipynb) contains prompts about triathlon finish times. It is an **unfinished starter notebook**, preserved as a learning record rather than presented as a completed analysis or deployed product.
+The [regression exercise notebook](DTSC2301_S26_HW2%20%2811%29.ipynb) preserves material on triathlon finish times and regression. This repository is a historical course archive rather than a deployed application. Its contents are not a complete record of all work completed in the course.
 
-This repository has no live demo. It should not be used as an example of finished portfolio work.
-
-## Completed portfolio projects
+## Current portfolio
 
 - [PulsePoint](https://github.com/juanthom99/PulsePoint-Dashboard) — interactive county health atlas, with a public Vercel demo and Supabase data.
 - [Error Decoder](https://github.com/juanthom99/Error-Decoder) — fitted text-search pipeline, FastAPI service on Modal, and a public frontend.
