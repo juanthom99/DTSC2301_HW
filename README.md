@@ -53,6 +53,8 @@ Run all cells from the repository root. The notebook uses bundled snapshots, reg
 
 The published HTML report hides code for easier reading. The notebook retains the complete implementation and outputs.
 
+After rerunning the notebook, regenerate the reading version with `python export_report.py`.
+
 ## Data and attribution
 
 Source snapshots were retrieved on October 27, 2026. See [data notes](data/README.md) for the source URLs, retained fields, units, and cleaning decisions. Unneeded identifiers and survey fields are excluded from the snapshots.
@@ -68,3 +70,4 @@ This repository develops material from completed DTSC2301 coursework into a repr
 - `data/` — minimal source snapshots, provenance notes, and generated summary tables.
 - `figures/` — exported plots used in the report and README.
 - `requirements.txt` — dependencies for reproducing the notebook.
+- `export_report.py` — exports the executed notebook into the published reading version.
